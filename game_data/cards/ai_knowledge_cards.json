@@ -1,0 +1,56 @@
+[
+  {
+    "cardId": "CARD-ML-001",
+    "name": "机器学习萌新卡",
+    "rarity": "common",
+    "unlockedBy": {
+      "chips": {
+        "concept": 1,
+        "algorithm": 1
+      },
+      "levelId": "L1"
+    },
+    "summary": "介绍机器学习的基本定义与应用场景。",
+    "details": {
+      "definition": "机器学习是从数据中自动提取规律的技术，让模型在任务上不断改进。",
+      "applications": [
+        "图片识别：从猫狗识别到医学影像诊断",
+        "推荐系统：给用户推送音乐、视频和商品",
+        "智能客服：根据历史问题给出回答"
+      ],
+      "funFact": "1960年代的感知机是机器学习最早的模型之一。"
+    },
+    "media": {
+      "illustration": "assets/images/cards/ml_intro.png",
+      "voice": "assets/audio/cards/ml_intro_narration.mp3"
+    },
+    "mentorNote": "记得检查训练数据是否多样，否则模型会偏见。"
+  },
+  {
+    "cardId": "CARD-PROMPT-001",
+    "name": "提示词工程入门卡",
+    "rarity": "rare",
+    "unlockedBy": {
+      "chips": {
+        "prompt": 2,
+        "concept": 1
+      },
+      "mentorTask": "complete_prompt_tutorial"
+    },
+    "summary": "教你写出结构化提示词，提升模型回答质量。",
+    "details": {
+      "definition": "提示词工程是为生成式AI设计输入，让模型准确理解需求的过程。",
+      "applications": [
+        "写作：给出角色、场景、风格形成短篇小说",
+        "设计：描述元素和布局生成海报",
+        "代码：指定语言和约束生成函数"
+      ],
+      "funFact": "提示词可以写成长篇段落，甚至包含示例对话。"
+    },
+    "media": {
+      "illustration": "assets/images/cards/prompt_engineering.png",
+      "voice": "assets/audio/cards/prompt_tips.mp3"
+    },
+    "mentorNote": "尝试在提示词里写清楚“你是谁、要做什么、输出格式”。"
+  }
+]

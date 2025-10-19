@@ -1,0 +1,138 @@
+{
+  "levelId": "L1",
+  "title": "初识人工智能实验室",
+  "environment": {
+    "background": "assets/images/levels/lab_intro.png",
+    "music": "assets/audio/bgm/intro_loop.mp3",
+    "gravity": 9.8,
+    "platformTheme": "hologram"
+  },
+  "winCondition": {
+    "targetHeight": 120,
+    "timeLimit": 180,
+    "requiredKnowledgeNodes": 4
+  },
+  "loseConditions": [
+    "fallBelowStart",
+    "timeExpired"
+  ],
+  "knowledgeNodes": [
+    {
+      "id": "L1-K1",
+      "height": 15,
+      "trigger": "platform_touch",
+      "content": {
+        "type": "text_audio",
+        "title": "什么是人工智能？",
+        "body": "人工智能是让机器模仿人类感知、推理和学习能力的技术集合。",
+        "voice": "assets/audio/mentor/ai_definition.mp3"
+      },
+      "reward": {
+        "xp": 5,
+        "chip": {
+          "type": "concept",
+          "amount": 1
+        }
+      }
+    },
+    {
+      "id": "L1-K2",
+      "height": 45,
+      "trigger": "platform_touch",
+      "content": {
+        "type": "text_illustration",
+        "title": "机器学习的核心",
+        "body": "机器学习让模型从大量数据中总结规律，而不是写死规则。",
+        "image": "assets/images/knowledge/ml_core.png"
+      },
+      "reward": {
+        "xp": 8,
+        "chip": {
+          "type": "algorithm",
+          "amount": 1
+        }
+      }
+    },
+    {
+      "id": "L1-K3",
+      "height": 75,
+      "trigger": "platform_touch",
+      "content": {
+        "type": "mentor_tip",
+        "title": "提示词小贴士",
+        "body": "提示词要说明角色、任务与语气，模型才能理解你的期待。",
+        "mentorEmoji": "🤖"
+      },
+      "reward": {
+        "xp": 10,
+        "chip": {
+          "type": "prompt",
+          "amount": 1
+        }
+      }
+    },
+    {
+      "id": "L1-K4",
+      "height": 110,
+      "trigger": "platform_touch",
+      "content": {
+        "type": "ethics_warning",
+        "title": "AI不是全知",
+        "body": "模型会根据概率生成内容，可能出现“胡编”。使用前要核实。"
+      },
+      "reward": {
+        "xp": 12,
+        "chip": {
+          "type": "ethics",
+          "amount": 1
+        }
+      }
+    }
+  ],
+  "platformTimeline": [
+    { "time": 0, "pattern": "static", "y": 0 },
+    { "time": 3, "pattern": "moving_horizontal", "y": 12, "speed": 1.2 },
+    { "time": 8, "pattern": "static", "y": 25 },
+    { "time": 15, "pattern": "disappear", "y": 38, "duration": 5 },
+    { "time": 24, "pattern": "moving_vertical", "y": 52, "speed": 1.0 },
+    { "time": 36, "pattern": "static", "y": 68 },
+    { "time": 50, "pattern": "narrow", "y": 90 },
+    { "time": 65, "pattern": "static", "y": 115 }
+  ],
+  "chipSpawns": [
+    { "height": 20, "chip": "concept" },
+    { "height": 55, "chip": "algorithm" },
+    { "height": 95, "chip": "prompt" }
+  ],
+  "mentorInteractions": [
+    {
+      "triggerHeight": 30,
+      "mentorId": "mentor-alpha",
+      "dialogue": [
+        {
+          "speaker": "mentor",
+          "text": "欢迎来到实验室！跳跃时留意悬浮的知识节点。"
+        },
+        {
+          "speaker": "player",
+          "text": "我会拿到什么奖励？"
+        },
+        {
+          "speaker": "mentor",
+          "text": "收集齐芯片就能解锁AI知识卡，拼出你的智能图谱。"
+        }
+      ]
+    }
+  ],
+  "revivalQuiz": {
+    "questionId": "Q-L1-01",
+    "prompt": "Transformer模型解决了什么问题？",
+    "options": [
+      "它让模型一次读完整个句子，抓住远距离关系。",
+      "它发明了新的显卡。",
+      "它让机器人学会烹饪。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Transformer通过自注意力机制捕捉长距离依赖，是现代大语言模型的基础。"
+  }
+}
