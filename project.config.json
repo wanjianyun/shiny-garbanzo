@@ -1,0 +1,10 @@
+{
+  "appid": "tour-appid-placeholder",
+  "projectname": "茶马古道-驮队经理-像素版",
+  "compileType": "game",
+  "libVersion": "3.10.3",
+  "setting": {
+    "urlCheck": false,
+    "minified": true
+  }
+}
