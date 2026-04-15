@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="苍劲古茶树与远山薄雾扁平插画">
+  <rect width="400" height="600" fill="#F7EEDC"/>
+  <path d="M0 300 Q100 250 190 285 T400 275 L400 350 L0 350 Z" fill="#E8D7BB"/>
+  <path d="M0 355 Q95 330 190 352 T400 345 L400 600 L0 600 Z" fill="#D6BE9A"/>
+  <path d="M0 325 Q130 290 250 318 T400 304" fill="none" stroke="#FFFFFF" stroke-width="8" opacity="0.55" stroke-linecap="round"/>
+
+  <path d="M180 492 C165 430 166 366 194 316 C220 269 212 238 224 202 C236 164 268 149 287 174 C307 202 300 243 278 269 C261 289 251 304 252 329 C254 370 266 416 260 492 Z"
+        fill="#8E5D3B" stroke="#2C1A0E" stroke-width="3"/>
+  <path d="M200 350 C170 322 142 307 118 306 C97 305 88 324 100 341 C117 364 145 371 177 380 Z"
+        fill="#8E5D3B" stroke="#2C1A0E" stroke-width="3"/>
+  <path d="M240 305 C273 286 305 282 327 295 C346 307 347 329 328 343 C303 360 272 356 242 349 Z"
+        fill="#8E5D3B" stroke="#2C1A0E" stroke-width="3"/>
+
+  <g fill="#557E46" stroke="#2C1A0E" stroke-width="2.6">
+    <ellipse cx="193" cy="215" rx="122" ry="71"/>
+    <ellipse cx="125" cy="226" rx="73" ry="50"/>
+    <ellipse cx="266" cy="229" rx="76" ry="52"/>
+    <ellipse cx="192" cy="171" rx="80" ry="44"/>
+    <ellipse cx="228" cy="186" rx="52" ry="32" fill="#4A6F3D"/>
+    <ellipse cx="160" cy="186" rx="48" ry="30" fill="#4A6F3D"/>
+  </g>
+
+  <path d="M0 522 Q98 500 200 522 T400 514" fill="none" stroke="#B48656" stroke-width="3"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="深山密林与斑驳光影扁平插画">
+  <rect width="400" height="600" fill="#F6EBD7"/>
+  <rect width="400" height="170" fill="#ECE0C8"/>
+  <path d="M0 182 Q82 141 162 171 T322 166 T400 174 L400 600 L0 600 Z" fill="#7C9C5B"/>
+
+  <g fill="#4F7442" stroke="#2C1A0E" stroke-width="3">
+    <rect x="44" y="172" width="34" height="300" rx="16"/>
+    <rect x="110" y="152" width="38" height="332" rx="18"/>
+    <rect x="182" y="166" width="36" height="322" rx="17"/>
+    <rect x="250" y="146" width="42" height="340" rx="20"/>
+    <rect x="324" y="176" width="32" height="296" rx="15"/>
+  </g>
+
+  <g fill="#5E8649" stroke="#2C1A0E" stroke-width="2.6">
+    <ellipse cx="60" cy="154" rx="52" ry="46"/>
+    <ellipse cx="132" cy="138" rx="60" ry="50"/>
+    <ellipse cx="206" cy="150" rx="58" ry="48"/>
+    <ellipse cx="278" cy="134" rx="64" ry="52"/>
+    <ellipse cx="344" cy="160" rx="55" ry="46"/>
+    <ellipse cx="98" cy="98" rx="50" ry="38"/>
+    <ellipse cx="248" cy="94" rx="55" ry="40"/>
+  </g>
+
+  <g stroke="#F8D97C" stroke-width="10" stroke-linecap="round" opacity="0.68">
+    <line x1="18" y1="212" x2="140" y2="282"/>
+    <line x1="82" y1="220" x2="208" y2="300"/>
+    <line x1="230" y1="206" x2="362" y2="286"/>
+  </g>
+
+  <g fill="#3F5F34" stroke="#2C1A0E" stroke-width="2.6">
+    <ellipse cx="40" cy="502" rx="36" ry="18"/>
+    <ellipse cx="100" cy="522" rx="43" ry="20"/>
+    <ellipse cx="166" cy="506" rx="40" ry="19"/>
+    <ellipse cx="228" cy="523" rx="42" ry="20"/>
+    <ellipse cx="298" cy="507" rx="39" ry="18"/>
+    <ellipse cx="360" cy="525" rx="41" ry="19"/>
+  </g>
+</svg>

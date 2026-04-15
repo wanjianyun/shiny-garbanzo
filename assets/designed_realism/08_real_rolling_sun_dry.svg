@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="竹匾揉捻与日晒扁平插画">
+  <rect width="400" height="600" fill="#F8EDDA"/>
+  <circle cx="332" cy="108" r="52" fill="#F2C95B" stroke="#2C1A0E" stroke-width="2.6"/>
+
+  <rect x="55" y="150" width="290" height="10" fill="#8B5B3A" stroke="#2C1A0E" stroke-width="2.6"/>
+  <rect x="55" y="248" width="290" height="10" fill="#8B5B3A" stroke="#2C1A0E" stroke-width="2.6"/>
+  <rect x="55" y="346" width="290" height="10" fill="#8B5B3A" stroke="#2C1A0E" stroke-width="2.6"/>
+  <line x1="70" y1="150" x2="70" y2="430" stroke="#2C1A0E" stroke-width="3"/>
+  <line x1="330" y1="150" x2="330" y2="430" stroke="#2C1A0E" stroke-width="3"/>
+
+  <ellipse cx="200" cy="460" rx="146" ry="63" fill="#DAB47D" stroke="#2C1A0E" stroke-width="3"/>
+  <g fill="#4D7440" stroke="#2C1A0E" stroke-width="2.2">
+    <ellipse cx="165" cy="452" rx="22" ry="10"/>
+    <ellipse cx="193" cy="462" rx="23" ry="10"/>
+    <ellipse cx="220" cy="452" rx="22" ry="10"/>
+    <ellipse cx="247" cy="462" rx="23" ry="10"/>
+    <ellipse cx="208" cy="470" rx="20" ry="9"/>
+  </g>
+
+  <g fill="#F3D0AC" stroke="#2C1A0E" stroke-width="2.8">
+    <path d="M75 425 Q108 385 142 420 Q115 448 75 425 Z"/>
+    <path d="M325 425 Q292 385 258 420 Q285 448 325 425 Z"/>
+  </g>
+  <path d="M125 420 Q165 438 189 452" stroke="#2C1A0E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M275 420 Q235 438 211 452" stroke="#2C1A0E" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
