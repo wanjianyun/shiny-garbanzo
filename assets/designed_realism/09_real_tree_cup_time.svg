@@ -1,15 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
-  <rect width="400" height="600" fill="#F2D8B5"/>
-  <rect y="0" width="400" height="310" fill="#E9B27F"/>
-  <rect y="310" width="400" height="290" fill="#C78255"/>
-  <circle cx="306" cy="132" r="36" fill="#F8EEDC" stroke="#2C1A0E" stroke-width="2.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="黄昏古树与茶碗宁静氛围扁平插画">
+  <rect width="400" height="600" fill="#F2D9B6"/>
+  <rect width="400" height="310" fill="#EAB681"/>
+  <rect y="310" width="400" height="290" fill="#C98557"/>
+
+  <circle cx="306" cy="132" r="36" fill="#F8EEDD" stroke="#2C1A0E" stroke-width="2.6"/>
+
   <g fill="#2C1A0E">
-    <path d="M72 454 C70 387 88 335 124 296 C161 257 214 243 249 264 C280 282 290 321 274 348 C258 376 230 383 203 389 C175 395 157 413 151 454 Z"/>
-    <ellipse cx="188" cy="275" rx="120" ry="58"/>
-    <ellipse cx="110" cy="284" rx="62" ry="38"/>
-    <ellipse cx="262" cy="286" rx="74" ry="42"/>
+    <path d="M72 456 C70 390 88 336 124 298 C161 259 214 244 249 266 C280 284 290 323 274 350 C258 378 230 384 203 390 C175 397 157 414 151 456 Z"/>
+    <ellipse cx="188" cy="276" rx="120" ry="58"/>
+    <ellipse cx="110" cy="285" rx="62" ry="38"/>
+    <ellipse cx="262" cy="287" rx="74" ry="42"/>
   </g>
-  <ellipse cx="260" cy="520" rx="74" ry="24" fill="#F8F2E6" stroke="#2C1A0E" stroke-width="3"/>
-  <path d="M196 520 L212 556 Q260 578 308 556 L324 520" fill="#EFE7D7" stroke="#2C1A0E" stroke-width="3"/>
-  <ellipse cx="260" cy="520" rx="52" ry="14" fill="#C98642" stroke="#2C1A0E" stroke-width="2.3"/>
+
+  <ellipse cx="260" cy="520" rx="76" ry="24" fill="#F8F2E7" stroke="#2C1A0E" stroke-width="3"/>
+  <path d="M194 520 L212 557 Q260 580 308 557 L326 520" fill="#EFE7D8" stroke="#2C1A0E" stroke-width="3"/>
+  <ellipse cx="260" cy="520" rx="52" ry="14" fill="#CA8743" stroke="#2C1A0E" stroke-width="2.3"/>
+
+  <path d="M0 470 Q120 446 220 470 T400 464" fill="none" stroke="#A76645" stroke-width="3" opacity="0.5"/>
 </svg>

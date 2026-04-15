@@ -1,24 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
-  <rect width="400" height="600" fill="#F7EEDB"/>
-  <rect width="400" height="190" fill="#CFE4EF"/>
-  <g fill="#FFFFFF" stroke="#2C1A0E" stroke-width="2">
-    <ellipse cx="90" cy="85" rx="36" ry="20"/>
-    <ellipse cx="120" cy="90" rx="30" ry="16"/>
-    <ellipse cx="285" cy="72" rx="42" ry="22"/>
-    <ellipse cx="317" cy="77" rx="28" ry="15"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="梯田茶园与山路扁平插画">
+  <rect width="400" height="600" fill="#F8EFDE"/>
+  <rect width="400" height="190" fill="#CFE4F2"/>
+
+  <g fill="#FFFFFF" stroke="#2C1A0E" stroke-width="2.2">
+    <ellipse cx="90" cy="84" rx="40" ry="21"/>
+    <ellipse cx="124" cy="90" rx="32" ry="17"/>
+    <ellipse cx="277" cy="73" rx="44" ry="23"/>
+    <ellipse cx="315" cy="78" rx="31" ry="16"/>
   </g>
-  <path d="M0 210 Q70 185 150 205 T300 198 T400 205 L400 600 L0 600 Z" fill="#8BAA66" stroke="#2C1A0E" stroke-width="2.5"/>
-  <path d="M0 265 Q70 240 145 258 T300 252 T400 257" fill="none" stroke="#2C1A0E" stroke-width="2.5"/>
-  <path d="M0 320 Q90 295 170 315 T330 310 T400 315" fill="none" stroke="#2C1A0E" stroke-width="2.5"/>
-  <path d="M0 380 Q85 355 165 373 T320 368 T400 375" fill="none" stroke="#2C1A0E" stroke-width="2.5"/>
-  <path d="M0 445 Q90 420 175 438 T330 435 T400 442" fill="none" stroke="#2C1A0E" stroke-width="2.5"/>
-  <path d="M0 500 Q90 475 170 495 T330 492 T400 500" fill="none" stroke="#2C1A0E" stroke-width="2.5"/>
+
+  <path d="M0 212 Q76 186 152 206 T304 198 T400 206 L400 600 L0 600 Z" fill="#8DAF6A" stroke="#2C1A0E" stroke-width="2.6"/>
+  <g fill="none" stroke="#2C1A0E" stroke-width="2.6">
+    <path d="M0 264 Q72 240 148 258 T304 252 T400 258"/>
+    <path d="M0 320 Q92 296 172 315 T332 310 T400 316"/>
+    <path d="M0 380 Q86 356 166 374 T322 369 T400 376"/>
+    <path d="M0 444 Q92 420 176 438 T332 434 T400 442"/>
+    <path d="M0 500 Q92 476 172 496 T332 492 T400 500"/>
+  </g>
+
   <g fill="#4D7440" stroke="#2C1A0E" stroke-width="2.2">
     <ellipse cx="52" cy="247" rx="18" ry="11"/><ellipse cx="98" cy="252" rx="20" ry="12"/><ellipse cx="145" cy="246" rx="19" ry="11"/><ellipse cx="196" cy="250" rx="20" ry="12"/><ellipse cx="246" cy="247" rx="18" ry="11"/><ellipse cx="296" cy="252" rx="20" ry="12"/><ellipse cx="345" cy="248" rx="19" ry="11"/>
     <ellipse cx="42" cy="305" rx="19" ry="11"/><ellipse cx="90" cy="309" rx="20" ry="12"/><ellipse cx="138" cy="302" rx="19" ry="11"/><ellipse cx="187" cy="308" rx="20" ry="12"/><ellipse cx="236" cy="304" rx="18" ry="11"/><ellipse cx="287" cy="308" rx="20" ry="12"/><ellipse cx="336" cy="305" rx="19" ry="11"/>
     <ellipse cx="55" cy="362" rx="18" ry="11"/><ellipse cx="104" cy="365" rx="20" ry="12"/><ellipse cx="152" cy="360" rx="19" ry="11"/><ellipse cx="202" cy="364" rx="20" ry="12"/><ellipse cx="252" cy="360" rx="18" ry="11"/><ellipse cx="302" cy="364" rx="20" ry="12"/><ellipse cx="352" cy="362" rx="19" ry="11"/>
     <ellipse cx="45" cy="426" rx="19" ry="11"/><ellipse cx="95" cy="430" rx="20" ry="12"/><ellipse cx="145" cy="424" rx="19" ry="11"/><ellipse cx="195" cy="430" rx="20" ry="12"/><ellipse cx="245" cy="426" rx="18" ry="11"/><ellipse cx="295" cy="430" rx="20" ry="12"/><ellipse cx="346" cy="427" rx="19" ry="11"/>
   </g>
-  <path d="M390 215 C330 260 290 315 286 385 C283 438 296 476 340 520" fill="none" stroke="#C28D53" stroke-width="10" stroke-linecap="round"/>
-  <path d="M390 215 C330 260 290 315 286 385 C283 438 296 476 340 520" fill="none" stroke="#2C1A0E" stroke-width="2.5" stroke-linecap="round"/>
+
+  <path d="M392 216 C334 261 294 318 289 386 C285 440 299 477 343 520" fill="none" stroke="#C58E54" stroke-width="10" stroke-linecap="round"/>
+  <path d="M392 216 C334 261 294 318 289 386 C285 440 299 477 343 520" fill="none" stroke="#2C1A0E" stroke-width="2.6" stroke-linecap="round"/>
 </svg>

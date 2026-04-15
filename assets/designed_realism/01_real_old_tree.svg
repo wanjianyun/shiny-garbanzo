@@ -1,14 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
-  <rect width="400" height="600" fill="#F6EBD7"/>
-  <path d="M0 430 Q90 390 180 420 T400 410 L400 600 L0 600 Z" fill="#D7C1A1"/>
-  <path d="M0 360 Q120 310 220 340 T400 330 L400 430 L0 430 Z" fill="#EADCC2"/>
-  <path d="M75 310 Q155 270 245 295 T360 282" fill="none" stroke="#A77A4A" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M180 470 C165 420 170 365 190 320 C205 286 195 248 210 212 C224 180 259 166 277 196 C295 225 277 264 250 283 C230 297 223 316 231 343 C240 373 251 401 249 470 Z" fill="#8A5A3A" stroke="#2C1A0E" stroke-width="3"/>
-  <path d="M199 361 C170 332 143 314 121 310 C96 306 88 324 101 341 C117 362 144 369 172 380 Z" fill="#8A5A3A" stroke="#2C1A0E" stroke-width="3"/>
-  <path d="M229 298 C262 279 298 274 320 286 C343 298 342 324 323 338 C299 355 267 351 236 345 Z" fill="#8A5A3A" stroke="#2C1A0E" stroke-width="3"/>
-  <ellipse cx="193" cy="214" rx="118" ry="68" fill="#486B3A" stroke="#2C1A0E" stroke-width="3"/>
-  <ellipse cx="130" cy="222" rx="70" ry="48" fill="#5B8148" stroke="#2C1A0E" stroke-width="2.5"/>
-  <ellipse cx="268" cy="228" rx="72" ry="50" fill="#5B8148" stroke="#2C1A0E" stroke-width="2.5"/>
-  <ellipse cx="194" cy="174" rx="74" ry="42" fill="#5A7C42" stroke="#2C1A0E" stroke-width="2.5"/>
-  <path d="M0 520 Q100 500 210 520 T400 510" stroke="#B0895A" stroke-width="2.5" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="苍劲古茶树与远山薄雾扁平插画">
+  <rect width="400" height="600" fill="#F7EEDC"/>
+  <path d="M0 300 Q100 250 190 285 T400 275 L400 350 L0 350 Z" fill="#E8D7BB"/>
+  <path d="M0 355 Q95 330 190 352 T400 345 L400 600 L0 600 Z" fill="#D6BE9A"/>
+  <path d="M0 325 Q130 290 250 318 T400 304" fill="none" stroke="#FFFFFF" stroke-width="8" opacity="0.55" stroke-linecap="round"/>
+
+  <path d="M180 492 C165 430 166 366 194 316 C220 269 212 238 224 202 C236 164 268 149 287 174 C307 202 300 243 278 269 C261 289 251 304 252 329 C254 370 266 416 260 492 Z"
+        fill="#8E5D3B" stroke="#2C1A0E" stroke-width="3"/>
+  <path d="M200 350 C170 322 142 307 118 306 C97 305 88 324 100 341 C117 364 145 371 177 380 Z"
+        fill="#8E5D3B" stroke="#2C1A0E" stroke-width="3"/>
+  <path d="M240 305 C273 286 305 282 327 295 C346 307 347 329 328 343 C303 360 272 356 242 349 Z"
+        fill="#8E5D3B" stroke="#2C1A0E" stroke-width="3"/>
+
+  <g fill="#557E46" stroke="#2C1A0E" stroke-width="2.6">
+    <ellipse cx="193" cy="215" rx="122" ry="71"/>
+    <ellipse cx="125" cy="226" rx="73" ry="50"/>
+    <ellipse cx="266" cy="229" rx="76" ry="52"/>
+    <ellipse cx="192" cy="171" rx="80" ry="44"/>
+    <ellipse cx="228" cy="186" rx="52" ry="32" fill="#4A6F3D"/>
+    <ellipse cx="160" cy="186" rx="48" ry="30" fill="#4A6F3D"/>
+  </g>
+
+  <path d="M0 522 Q98 500 200 522 T400 514" fill="none" stroke="#B48656" stroke-width="3"/>
 </svg>
