@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+  <rect width="400" height="600" fill="#F7ECD8"/>
+  <circle cx="332" cy="108" r="52" fill="#F2C959" stroke="#2C1A0E" stroke-width="2.5"/>
+  <rect x="55" y="150" width="290" height="10" fill="#8A5A3A" stroke="#2C1A0E" stroke-width="2.5"/>
+  <rect x="55" y="248" width="290" height="10" fill="#8A5A3A" stroke="#2C1A0E" stroke-width="2.5"/>
+  <rect x="55" y="346" width="290" height="10" fill="#8A5A3A" stroke="#2C1A0E" stroke-width="2.5"/>
+  <line x1="70" y1="150" x2="70" y2="430" stroke="#2C1A0E" stroke-width="3"/>
+  <line x1="330" y1="150" x2="330" y2="430" stroke="#2C1A0E" stroke-width="3"/>
+  <ellipse cx="200" cy="460" rx="145" ry="62" fill="#D8B27A" stroke="#2C1A0E" stroke-width="3"/>
+  <g fill="#4D7440" stroke="#2C1A0E" stroke-width="2.2">
+    <ellipse cx="165" cy="452" rx="22" ry="10"/>
+    <ellipse cx="193" cy="462" rx="23" ry="10"/>
+    <ellipse cx="220" cy="452" rx="22" ry="10"/>
+    <ellipse cx="247" cy="462" rx="23" ry="10"/>
+  </g>
+  <g fill="#F2CFAB" stroke="#2C1A0E" stroke-width="2.8">
+    <path d="M75 425 Q108 385 142 420 Q115 448 75 425 Z"/>
+    <path d="M325 425 Q292 385 258 420 Q285 448 325 425 Z"/>
+  </g>
+  <path d="M125 420 Q165 438 189 452" stroke="#2C1A0E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M275 420 Q235 438 211 452" stroke="#2C1A0E" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
